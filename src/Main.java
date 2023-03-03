@@ -18,8 +18,7 @@ public class Main {
         System.out.println(" ");
     }
     public static void HWbackCover() {
-        System.out.println("Домашнее задание " + hw + " выполнено" );
-        System.out.println(" ");
+        System.out.println("Домашнее задание " + hw + " выполнено\n" );
     }
 }
 
